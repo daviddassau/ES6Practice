@@ -1,1 +1,7 @@
-# ES6Practice
+# ES6 Practice
+
+#### The Arrow Function
+This:
+```JavaScript
+foo = x => 2;
+```
